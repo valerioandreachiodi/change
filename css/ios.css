@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+    font-family: "Helvetica Neue", sans-serif;
+}
+#css-message::after {
+    content: "Stai usando IPHONE  🍏";
+    font-size: 20px;
+    color: red;
+}

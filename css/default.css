@@ -1,0 +1,9 @@
+body {
+    background-color: plum;
+    font-family: Arial, sans-serif;
+}
+#css-message::after {
+    content: "Stai usando un PC ";
+    font-size: 20px;
+    color: red;
+}
