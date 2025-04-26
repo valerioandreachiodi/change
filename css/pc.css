@@ -1,0 +1,9 @@
+body {
+    background-color: lightgreen;
+    font-family: Arial, sans-serif;
+}
+#css-message::after {
+    content: "Stai usando UN PC 🪟 Windows 🐧 Linux 🍏 Mac (Apple)";
+    font-size: 20px;
+    color: red;
+}
